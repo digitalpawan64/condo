@@ -103,7 +103,6 @@ src: url("Angie-Regular.otf");
 	width: 100%;
 	height: 780px;
 	background-image: url('../images/bg.png');
-		
 	background-size: cover;
 }
 
@@ -155,7 +154,6 @@ src: url("Angie-Regular.otf");
   width: 100%;
   height: auto;
 	
-
 }
 
 .ban-img-1{
@@ -512,7 +510,7 @@ h2{
 
 
 .footer-top-right img{
-    width: 100%;
+    
     height: 600px;
 }
 
