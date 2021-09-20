@@ -146,10 +146,10 @@ src: url("Angie-Regular.otf");
 }
 
 .banner-mobile-image img{
-	    position: relative;
-    left: -107px;
-    top: 120px;
-    height: 650px;
+	position: absolute;
+	left: -107px;
+	top: 100px;
+	height: 600px;
   
 	
 }
