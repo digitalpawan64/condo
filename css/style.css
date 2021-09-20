@@ -215,11 +215,15 @@ src: url("Angie-Regular.otf");
  text-align: center;
 
 }
+.feature-top-right{
+  margin-left: 234px;
+}
 
 .feature-top-right h3{
   color: #fc583d;
 
 }
+
 .feature-top-right p{
   color: #000;
 }
