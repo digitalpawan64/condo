@@ -193,8 +193,8 @@ src: url("Angie-Regular.otf");
 .feature-card{
 	/*margin: 10px;
 	padding: 100px;*/
-  width: 400px;
-  height: 370px;
+  width: 400px!important;
+  height: 370px!important;
 
 }
 
