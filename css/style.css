@@ -262,7 +262,7 @@ src: url("Angie-Regular.otf");
           position: absolute;
           top: 0;
           left: 0;
-          padding: 60px 60px;
+          padding: 70px 70px;
           border:1px white solid;
           box-sizing: border-box;
           border-radius: 30px;
@@ -279,7 +279,8 @@ src: url("Angie-Regular.otf");
         }
 
         .box-content p{
-          color: black!important;
+          color: #000!important;
+          font-size: 18px;
         }
 
 
