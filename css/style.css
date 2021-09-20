@@ -83,7 +83,7 @@ src: url("Angie-Regular.otf");
 }
 
 .app-btn a{
-  color: #fff;
+  color: #fff!important;
 }
 
 
@@ -299,7 +299,7 @@ src: url("Angie-Regular.otf");
 }
 
 .slick-next::before {
-    content: "→";
+    content: url("../images/right-arrow (1) copy 3.png");
     font-size: 18px;
     color: #FC583D!important;
 }
