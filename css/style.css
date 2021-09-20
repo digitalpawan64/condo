@@ -110,15 +110,15 @@ src: url("Angie-Regular.otf");
 
 .banner-content{
 	
-	margin-left: 115px;
+	margin-left: 234px;
 }
 
 
 .banner-content h1{
-	font-size: 90px;
+	font-size: 76px;
     font-weight: 400;
-	color: black;
-   font-family: "MYRIADPRO-REGULAR", sans-serif;
+    color: black;
+    font-family: "MYRIADPRO-REGULAR", sans-serif;
 }
 
 .banner-content a img{
@@ -127,7 +127,7 @@ src: url("Angie-Regular.otf");
 }
 
 .banner-content p{
-	margin: 20px 0;
+	margin: 30px 0;
 	color: #000;
 }
 
