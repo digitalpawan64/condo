@@ -3,7 +3,7 @@
   padding: 0px;
   box-sizing: border-box;
   font-family: "MYRIADPRO-REGULAR", sans-serif;
-  color:#fff;
+  
 }
 
 @font-face {
@@ -103,12 +103,13 @@ src: url("Angie-Regular.otf");
 .banner{
 	display: flex;
   justify-content: space-between;
+  align-items: center;
 
 }
 
 
 .banner-content{
-	transform: translate(50px, 250px);
+	
 	margin-left: 115px;
 }
 
