@@ -215,9 +215,6 @@ src: url("Angie-Regular.otf");
  text-align: center;
 
 }
-.feature-top-right{
-  margin-left: 234px;
-}
 
 .feature-top-right h3{
   color: #fc583d;
@@ -229,8 +226,8 @@ src: url("Angie-Regular.otf");
 }
 
 .feature-top-right{
-  margin-left: 150px;
-  margin-top: 50px;
+  margin-left: 234px;
+  margin-top: 80px;
 }
 
 .feature-top-right h2{
