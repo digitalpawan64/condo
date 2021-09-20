@@ -323,7 +323,7 @@ src: url("Angie-Regular.otf");
 /*feature end*/
 
 .content{
-  background: url('../image/content.bg.png');
+  background: url('../images/content.bg.png');
   background-size: cover;
   background-repeat: no-repeat;
   height: 1200px;
