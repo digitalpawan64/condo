@@ -224,6 +224,7 @@ src: url("Angie-Regular.otf");
 
 .feature-top-right p{
   color: #000;
+  font-size: 18px;
 }
 
 .feature-top-right{
@@ -299,14 +300,12 @@ src: url("Angie-Regular.otf");
 }
 
 .slick-next::before {
-    content: url('../images/right-arrow (1) copy 3.png');
-    font-size: 18px;
+    content: "→";
     color: #FC583D!important;
 }
 
 .slick-prev::before {
     content: "→";
-    font-size: 18px;
     color: #FC583D!important;
 }
 
