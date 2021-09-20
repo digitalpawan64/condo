@@ -299,7 +299,7 @@ src: url("Angie-Regular.otf");
 }
 
 .slick-next::before {
-    content: url("../images/right-arrow (1) copy 3.png");
+    content: url('../images/right-arrow (1) copy 3.png');
     font-size: 18px;
     color: #FC583D!important;
 }
