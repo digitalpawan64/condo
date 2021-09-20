@@ -140,10 +140,15 @@ src: url("Angie-Regular.otf");
 }*/
 
 .banner-rectangle{
-	position: absolute;
-	left: 703px;	
-	height: 500px;
+	
+	
+}
 
+.banner-rectangle img{
+  position: absolute;
+  left: 703px;  
+  width: 100%;
+  height: auto;
 }
 
 .banner-mobile-image img{
@@ -151,8 +156,7 @@ src: url("Angie-Regular.otf");
 	left: -107px;
 	top: 100px;
 	height: 600px;
-  width: 100%;
-  height: auto;
+  
 	
 }
 
