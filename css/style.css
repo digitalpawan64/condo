@@ -340,7 +340,7 @@ h2{
 
 .content-top{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   padding-top:100px;
 }
@@ -361,7 +361,7 @@ h2{
 
 .content-bottom{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
 }
 
