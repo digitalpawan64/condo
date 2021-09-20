@@ -585,6 +585,12 @@ h2{
   align-items: center;
 }
 
+
+.copy-links{
+  text-decoration: none;
+  color: #757575;
+}
+
 @media screen and (max-width: 768px) {
   .footer-top-right img{
     height: 300px;
