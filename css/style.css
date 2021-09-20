@@ -147,8 +147,8 @@ src: url("Angie-Regular.otf");
 .banner-rectangle img{
   position: absolute;
   left: 703px;  
-  width: 100%;
-  height: auto;
+  /*width: 100%;
+  height: auto;*/
 }
 
 .banner-mobile-image img{
