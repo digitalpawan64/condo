@@ -115,7 +115,7 @@ src: url("Angie-Regular.otf");
 
 
 .banner-content h1{
-	font-size: 92px;
+	font-size: 73px;
     font-weight: 500;
     color: black;
     font-family: "MYRIADPRO-REGULAR", sans-serif;
@@ -185,7 +185,7 @@ src: url("Angie-Regular.otf");
 
 /*Start Feature Section*/
 
-.feature{
+#feature{
 	width: 100%;
 	height: auto;
 }
