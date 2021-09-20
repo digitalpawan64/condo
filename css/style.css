@@ -115,7 +115,8 @@ src: url("Angie-Regular.otf");
 
 
 .banner-content h1{
-	font-size: 92px;
+	font-size: 90px;
+    font-weight: 400;
 	color: black;
    font-family: "MYRIADPRO-REGULAR", sans-serif;
 }
