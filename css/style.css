@@ -150,6 +150,8 @@ src: url("Angie-Regular.otf");
 	left: -107px;
 	top: 100px;
 	height: 600px;
+  width: 100%;
+  height: auto;
 	
 
 }
