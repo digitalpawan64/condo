@@ -19,6 +19,9 @@ h3{
   font-size: 22px;
 }
 
+p{
+  line-height: 30px;
+}
 
 
 #navbar {
@@ -384,6 +387,7 @@ h2{
 .content-bottom-right p{
   color: #000;
   margin: 20px 0;
+
 }
 
 .content-bottom-left img{
