@@ -15,6 +15,10 @@ src: url("Angie-Regular.otf");
 
 }
 
+h3{
+  font-size: 22px;
+}
+
 
 
 #navbar {
@@ -355,6 +359,8 @@ h2{
   color: #000;
   margin: 20px 0;
 }
+
+
 
 .content-top-left img{
     height: 600px;
