@@ -110,6 +110,7 @@ src: url("Angie-Regular.otf");
 
 .banner{
 	display: flex;
+  justify-content: space-between;
 
 }
 
