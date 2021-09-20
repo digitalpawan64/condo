@@ -371,7 +371,7 @@ h2{
 
 .content-bottom{
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
 }
 
@@ -382,9 +382,12 @@ h2{
 
 .content-bottom-left img{
     height: 600px;
-    margin-left:150px!important;
+    /*margin-left:150px!important;*/
 }
 
+.content-bottom-right{
+  margin-left: 150px;
+}
 
 
 .content-bottom-right a,.content-bottom-right h3, .content-bottom-right a i{
