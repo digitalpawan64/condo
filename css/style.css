@@ -15,6 +15,8 @@ src: url("Angie-Regular.otf");
 
 }
 
+
+
 #navbar {
   display: flex;
   align-items: center;
@@ -510,7 +512,8 @@ h2{
 
 
 .footer-top-right img{
-    height: 600px;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -523,6 +526,7 @@ h2{
 .playstore img{
   width: 130px;
   height: 50px;
+
 }
 
 .footer-bottom-center img{
