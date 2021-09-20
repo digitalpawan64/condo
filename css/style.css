@@ -139,16 +139,12 @@ src: url("Angie-Regular.otf");
 	justify-content: flex-end;
 }*/
 
-.banner-rectangle{
-	
-	
-}
+
 
 .banner-rectangle img{
   position: absolute;
   left: 703px;  
-  /*width: 100%;
-  height: auto;*/
+  
 }
 
 .banner-mobile-image img{
