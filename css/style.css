@@ -458,6 +458,7 @@ h2{
   background-repeat: no-repeat;
   height: 730px;
   width: 100%;
+  overflow-x: hidden;
  }
 
 .footer-top{
