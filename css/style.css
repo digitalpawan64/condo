@@ -17,6 +17,7 @@ src: url("Angie-Regular.otf");
 
 h3{
   font-size: 22px;
+  line-height: 32px;
 }
 
 p{
@@ -414,10 +415,17 @@ h2{
   padding-top:100px;
   padding-bottom:120px;
 }
+
+.testimonial-container{
+  width: 1400px;
+  margin: 0 auto;
+}
 .testimonial-top-right h3{
   color: #fc583d;
 
 }
+
+
 .testimonial-top-right{
   text-align: center;
   margin: 80px 0;
