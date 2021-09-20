@@ -136,10 +136,14 @@ src: url("Angie-Regular.otf");
 	color: #000;
 }
 
+.banner-content-2{
+  position: relative;
+  right: 0;
+}
 
 
 
-.banner-rectangle img{
+/*.banner-rectangle img{
   position: absolute;
   right: 0; 
   
@@ -152,13 +156,13 @@ src: url("Angie-Regular.otf");
 	height: 600px;
   
 	
-}
+}*/
 
-.ban-img-1{
+/*.ban-img-1{
 	position: absolute;
 	height: 500px;
 	left: 510;
-}
+}*/
 
 @media screen and (max-width:768px) {
   .ban-img-1{
