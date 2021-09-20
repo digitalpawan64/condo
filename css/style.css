@@ -384,8 +384,8 @@ h2{
     height: 600px;
 }
 
-.content-bottom-left{
-  margin-right: 50px;
+.content-bottom-right{
+  margin-left: 100px;
 }
 
 .content-bottom-right a,.content-bottom-right h3, .content-bottom-right a i{
