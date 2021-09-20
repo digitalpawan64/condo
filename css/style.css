@@ -586,7 +586,6 @@ h2{
   line-height: 44px;
   color: #757575;
   font-weight: 500;
-  font-family: "Nunito";
   height: 74px;
   text-align: center;
   display: flex;
@@ -596,7 +595,7 @@ h2{
 }
 
 
-.copy-links{
+.copy-links a{
   text-decoration: none;
   color: #757575;
 }
