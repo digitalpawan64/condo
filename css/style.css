@@ -167,6 +167,19 @@ p{
     white-space: nowrap;
 }
 
+
+@media only screen and (max-device-width: 1710px){
+
+.banner-content h1{
+  font-size: 72px;
+    font-weight: 600;
+    color: black;
+    font-family: 'angie'!important;
+    white-space: nowrap;
+}
+
+}
+
 .banner-content a img{
 	width: 180px;
     height: 60px;
