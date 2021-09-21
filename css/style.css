@@ -2,13 +2,18 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: "Angie", sans-serif;
+  font-family: "Nunito", sans-serif;
   
 }
 
 body{
   max-width: 1920px;
 }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+font-family: 'Nunito', sans-serif;
 
 @font-face {
 font-family: "Angie";
