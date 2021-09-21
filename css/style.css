@@ -1,3 +1,7 @@
+@font-face {
+  font-family: angie;
+  src: url('AngieBold.ttf');
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
@@ -15,10 +19,7 @@ font-family: 'Nunito', sans-serif;
 }*/
 
 
-@font-face {
-  font-family: angie;
-  src: url('AngieBold.ttf');
-}
+
 
 * {
   margin: 0px;
