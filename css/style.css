@@ -15,7 +15,7 @@ src: url("MYRIADPRO-REGULAR.otf") format("opentype");
 
 @font-face {
   font-family: angie;
-  src: url('AngieBold.ttf');
+  src: url('/AngieBold.ttf');
 }
 
 
