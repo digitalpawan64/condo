@@ -145,7 +145,7 @@ p{
 	font-size: 73px;
     font-weight: 500;
     color: black;
-    font-family: "AngieBold", sans-serif;
+    font-family: "AngieBold", sans-serif !important;
 }
 
 .banner-content a img{
