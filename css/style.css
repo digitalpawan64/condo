@@ -48,11 +48,11 @@ body{
 h2{
   font-family: 'angie'!important;
   color: black;
-  font-size: 72px;
+  font-size: 4.5rem;
 }
 
 h3{
-  font-size: 22px;
+  font-size: 1.375rem;
   line-height: 32px;
 }
 
@@ -92,7 +92,7 @@ p{
   transition: all 0.1s ease;
   color: black;
   margin: 0.6rem;
-  font-size: 20px;
+  font-size: 1.25rem;
   position: relative;
     z-index: 1;
 
@@ -124,7 +124,7 @@ p{
 	background: #FC583D;
   padding: 15px 25px;
 	border-radius:15px ;
-  font-size: 18px;
+  font-size: 1.125rem;
   border: none;
   color: #fff;
 }
@@ -176,7 +176,7 @@ p{
 @media only screen and (max-width:1710px){
 
 .banner-content h1{
-  font-size: 72px;
+  font-size: 4.5rem;
     
 }
 
