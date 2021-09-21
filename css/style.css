@@ -35,6 +35,8 @@ body{
 
 h2{
   font-family: 'angie'!important;
+  color: black;
+  font-size: 60px;
 }
 
 h3{
@@ -273,7 +275,7 @@ p{
 
 .feature-top-right h2{
   margin: 10px auto;
-  font-family: "Angie-Regular", sans-serif !important;
+  /*font-family: "Angie-Regular", sans-serif !important;*/
 }
 
 .card-slider{
@@ -378,12 +380,6 @@ p{
 
 
 
-h2{
-  color: black;
-  font-size: 60px;
-  font-family: "Angie Bold",sans-serif;
-
-}
 
 .content-top{
   display: flex;
