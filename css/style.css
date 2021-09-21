@@ -87,7 +87,9 @@ p{
   color: black;
   margin: 0.6rem;
   font-size: 20px;
- 
+  position: relative;
+    z-index: 1;
+
 }
 
 
@@ -182,6 +184,9 @@ p{
 
 .banner-section-2 img{
   margin-left: -175px;
+    margin-top: -80px;
+    position: relative;
+    z-index: 0;
 }
 
 
