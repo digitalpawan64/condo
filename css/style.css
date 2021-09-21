@@ -544,6 +544,7 @@ h2{
   display: flex;
   justify-content: space-evenly;
   align-items: flex-end;
+  margin-top: -40px;
 
   
 }
