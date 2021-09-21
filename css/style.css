@@ -572,8 +572,9 @@ h2{
 
 .footer-btn{
   background: #FC583D;
-  padding: 15px;
+  padding: 20px;
   border-radius:20px ;
+  margin-top: 10px;
 }
 
 .footer-btn span{
