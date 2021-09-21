@@ -16,7 +16,7 @@
 }
 
 @font-face {
-  font-family: MyriadPro;
+  font-family: myriadpro;
   src: url('MYRIADPRO-REGULAR.otf');
 }
 
@@ -39,8 +39,7 @@ body{
 
 
 h2{
-  font-family: MyriadPro;
-  /*font-family: 'angie'!important;*/
+  font-family: 'angie'!important;
   color: black;
   font-size: 60px;
 }
