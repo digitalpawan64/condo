@@ -180,6 +180,18 @@ p{
     
 }
 
+.banner-section-2 img {
+    margin-left: -278px;
+    margin-top: -80px;
+    position: relative;
+    z-index: 0;
+}
+
+.banner-content {
+    margin-left: 34px;
+    margin-top: -134px;
+}
+
 }
 
 .banner-content a img{
