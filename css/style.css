@@ -417,6 +417,11 @@ p{
     width: 400px!important; 
     height: 370px!important; 
   }
+
+  .footer-top-left {
+    margin-left: 38px;
+    white-space: normal;
+}
 }
 
 
