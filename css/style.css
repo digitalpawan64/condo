@@ -147,6 +147,7 @@ p{
 }
 
 
+
 .banner-content{
 	
 	margin-left: 234px;
@@ -154,10 +155,11 @@ p{
 
 
 .banner-content h1{
-	font-size: 71px;
+	font-size: 92;
     font-weight: 600;
     color: black;
     font-family: 'angie'!important;
+    white-space: nowrap;
 }
 
 .banner-content a img{
@@ -175,6 +177,10 @@ p{
 .banner-content-2{
   position: relative;
   right: 0;
+}
+
+.banner-section-2 img{
+  margin-left: -175px;
 }
 
 
