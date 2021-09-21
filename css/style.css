@@ -11,7 +11,7 @@
 
 
 
-@font-face {
+/*@font-face {
   font-family: angie;
   src: url('AngieBold.ttf');
 }
@@ -20,7 +20,7 @@
   font-family: myriadpro;
   src: url('MYRIADPRO-REGULAR.otf');
 }
-
+*/
 
 /*@font-face {
     font-family: 'angiebold';
@@ -159,7 +159,7 @@ p{
 	font-size: 92px;
     font-weight: 600;
     color: black;
-   /* font-family: 'angie'!important;*/
+    font-family: 'angie'!important;
     white-space: nowrap;
 }
 
