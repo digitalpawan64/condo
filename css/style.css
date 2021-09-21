@@ -8,9 +8,14 @@
 
 }
 
-@font-face {
+/*@font-face {
 font-family: "CustomFont";
 src: url("MYRIADPRO-REGULAR.otf") format("opentype");
+}*/
+
+@font-face {
+  font-family: angie;
+  src: url('AngieBold.ttf');
 }
 
 
@@ -168,7 +173,7 @@ p{
 	font-size: 5.75rem;
     font-weight: 600;
     color: black;
-    font-family: 'angie'!important;
+    font-family: angie;
     white-space: nowrap;
 }
 
