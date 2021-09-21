@@ -1,6 +1,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
+@font-face {
+    font-family: 'angiebold';
+    src: url('angiebold-webfont.woff2') format('woff2'),
+         url('angiebold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 @font-face{
 font-family: 'Nunito', sans-serif;
 }
