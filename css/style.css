@@ -1,14 +1,16 @@
 
-
-
-
 * {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
   font-family: 'Nunito', sans-serif;
+
   
 }
+
+
+
+
 
 @font-face {
   font-family: angie;
@@ -158,7 +160,8 @@ p{
 	font-size: 92px;
     font-weight: 600;
     color: black;
-    font-family: 'angie'!important;
+   /* font-family: 'angie'!important;*/
+   font-family: 'angie-bold', sans-serif;
     white-space: nowrap;
 }
 
