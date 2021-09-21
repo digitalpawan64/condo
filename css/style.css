@@ -90,19 +90,19 @@ p{
 }
 
 
-.navbar .list-item:hover a{
+#navbar .list-item:hover a{
   border-bottom: 2px #000 solid;
   /*border-top: 2px #000 solid;*/
   transition: all;
 }
 
-.navbar .list-item a:active {
+#navbar .list-item a:active {
   border-bottom: 2px #000 solid;
   /*border-top: 2px #000 solid;*/
   transition: all;
 }
 
-.navbar .list-item:hover:last-child a{
+#navbar .list-item:hover:last-child a{
   border-bottom: none;
   border-top: none;
   
