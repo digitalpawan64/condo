@@ -305,6 +305,7 @@ p{
     font-size: 18px!important;
     border-radius: 50%!important;
     background: transparent!important;
+    display: none!important;
 
 }
 
@@ -314,17 +315,20 @@ p{
     font-size: 18px!important;
     border-radius: 50%!important;
     background: transparent!important;
+    display: none!important;
 
 }
 
 .slick-next::before {
     content: "→";
     color: #FC583D!important;
+    display: none!important;
 }
 
 .slick-prev::before {
     content: "→";
     color: #FC583D!important;
+    display: none!important;
 }
 
 
@@ -477,6 +481,7 @@ h2{
     font-size: 18px!important;
     border-radius: 50%!important;
     background: transparent!important;
+    display: none!important;
 
 }
 
@@ -486,6 +491,7 @@ h2{
     font-size: 18px!important;
     border-radius: 50%!important;
     background: transparent!important;
+    display: none!important;
 
 }
 
