@@ -8,6 +8,11 @@
 
 }
 
+@font-face {
+font-family: "CustomFont";
+src: url("MYRIADPRO-REGULAR.otf") format("opentype");
+}
+
 
 
 
@@ -160,7 +165,7 @@ p{
 
 
 .banner-content h1{
-	font-size: 92px;
+	font-size: 5.75rem;
     font-weight: 600;
     color: black;
     font-family: 'angie'!important;
