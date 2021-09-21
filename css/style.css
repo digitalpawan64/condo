@@ -96,7 +96,7 @@ p{
   transition: all;
 }
 
-#navbar .list-item a:active {
+#navbar .list-item:active a {
   border-bottom: 2px #000 solid;
   /*border-top: 2px #000 solid;*/
   transition: all;
