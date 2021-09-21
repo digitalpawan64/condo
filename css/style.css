@@ -405,9 +405,17 @@ p{
 }
 
 
-@media screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
   .slick-next,.slick-prev {
     display: none!important;
+  }
+}
+
+
+@media only screen and (max-width: 1710px) {
+  .feature-card {
+    width: 400px!important; 
+    height: 370px!important; 
   }
 }
 
