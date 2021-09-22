@@ -310,13 +310,7 @@ p{
 
 }
 
-/*.feature-top-right h3{
-  color: #fc583d;
-  font-size: 22px;
-  font-family: Myriad Pro;
 
-}
-*/
 .feature-top-right p{
   color: #000;
   font-size: 18px;
@@ -461,14 +455,6 @@ p{
   color: #000;
   margin: 20px 0;
 }
-/*
-.content-top-right h2{
-  font-family: myriadpro;
-}*/
-
-/*.content-top-right h3{
-  font-family: Myriad Pro!important;
-}*/
 
 
 
@@ -480,7 +466,7 @@ p{
   margin-right: 50px;
 }
 
-.content-top-right a,.content-top-right h3 ,  .content-top-right a i{
+.content-top-right a,.content-top-right a i{
  color: #fc583d;
  text-decoration: none;
 }
@@ -509,7 +495,7 @@ p{
 
 
 
-.content-bottom-right a,.content-bottom-right h3, .content-bottom-right a i{
+.content-bottom-right a,.content-bottom-right a i{
  color: #fc583d;
  text-decoration: none;
 }
@@ -526,12 +512,6 @@ p{
   width: 1400px;
   margin: 0 auto;
 }
-.testimonial-top-right h3{
-  color: #fc583d;
-  font-family: Myriad Pro!important;
-
-}
-
 
 .testimonial-top-right{
   text-align: center;
@@ -640,7 +620,7 @@ p{
     height: 750px;
 }
 
-.footer-top-left a,.footer-top-left h3{
+.footer-top-left a{
  color: #fc583d;
 }
 
