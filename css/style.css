@@ -21,8 +21,8 @@ src: url("MYRIADPRO-REGULAR.otf") format("opentype");
 
 @font-face {
     font-family: 'Angie';
-    src: url('AngieBold.woff2') format('woff2'),
-        url('AngieBold.woff') format('woff');
+    src: url('../fonts/AngieBold.woff2') format('woff2'),
+        url('../fonts/AngieBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
