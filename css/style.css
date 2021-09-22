@@ -330,8 +330,8 @@ p{
 }
 
 .card-slider{
-/*  padding: 100px;
-  margin-left: 150px;*/
+  padding: 100px;
+/*  margin-left: 150px;*/
   max-width: 1410px;
   margin: 0 auto;
 }
