@@ -241,7 +241,7 @@ p{
 
 }
 
-@media (max-width:900px) and (min-width:400px){
+@media only screen and (max-width: 768px){
 .banner-content {
     
     margin-top: 12.5rem;
