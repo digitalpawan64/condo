@@ -220,7 +220,7 @@ p{
 
 }
 
-@media only screen and (max-width:1710px){
+@media only screen (min-width:1400px) and (max-width:1800px){
 
 .banner-content h1{
   font-size: 4.5rem;
