@@ -56,6 +56,8 @@ h2{
 h3{
   font-size: 1.375rem;
   line-height: 32px;
+  color: #fc583d;
+  font-family: Myriad Pro;
 }
 
 p{
@@ -308,12 +310,13 @@ p{
 
 }
 
-.feature-top-right h3{
+/*.feature-top-right h3{
   color: #fc583d;
   font-size: 22px;
+  font-family: Myriad Pro;
 
 }
-
+*/
 .feature-top-right p{
   color: #000;
   font-size: 18px;
@@ -463,9 +466,9 @@ p{
   font-family: myriadpro;
 }*/
 
-.content-top-right h3{
+/*.content-top-right h3{
   font-family: Myriad Pro!important;
-}
+}*/
 
 
 
