@@ -20,6 +20,26 @@
 
 
 
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-BlackSemiCn.woff2') format('woff2'),
+        url('../fonts/MyriadPro-BlackSemiCn.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-Bold.woff2') format('woff2'),
+        url('../fonts/MyriadPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
 body{
   max-width: 1920px;
 }
@@ -441,6 +461,10 @@ p{
 
 .content-top-right h2{
   font-family: myriadpro;
+}
+
+.content-top-right h3{
+  font-family: Myriad Pro;
 }
 
 
