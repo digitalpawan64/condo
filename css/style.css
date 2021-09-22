@@ -688,7 +688,7 @@ p{
   color: #757575;
 }
 
-@media only screen and (max-device-width: 768px) {
+@media only screen and (max-width: 768px) {
   .footer-top-right img{
     height: 300px;
     width: auto;
