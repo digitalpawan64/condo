@@ -14,7 +14,7 @@ src: url("MYRIADPRO-REGULAR.otf") format("opentype");
 }*/
 
 @font-face {
-  font-family: angie;
+  font-family: Angie;
   src: url('AngieBold.ttf');
 }
 
@@ -51,7 +51,7 @@ body{
 
 
 h2{
-  font-family: 'angie'!important;
+  font-family: Angie!important;
   color: black;
   font-size: 4.5rem;
 }
@@ -173,7 +173,7 @@ p{
 	font-size: 5.75rem;
     font-weight: 600;
     color: black;
-    font-family: angie;
+    font-family: Angie;
     white-space: nowrap;
 }
 
