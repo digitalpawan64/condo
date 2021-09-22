@@ -458,10 +458,10 @@ p{
   color: #000;
   margin: 20px 0;
 }
-
+/*
 .content-top-right h2{
   font-family: myriadpro;
-}
+}*/
 
 .content-top-right h3{
   font-family: Myriad Pro!important;
@@ -525,6 +525,7 @@ p{
 }
 .testimonial-top-right h3{
   color: #fc583d;
+  font-family: Myriad Pro!important;
 
 }
 
