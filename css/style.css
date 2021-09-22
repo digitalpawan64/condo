@@ -235,13 +235,13 @@ p{
 
 
 
-/*.banner-section-2 img {
+.banner-section-2 img {
     margin-left: -175px;
     margin-top: -16px;
     position: relative;
     z-index: 0;
     max-width: 815px;
-}*/
+}
 
 .banner-content p {
     
