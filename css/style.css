@@ -208,17 +208,7 @@ p{
 
 
 
-@media (max-width:900px) and (min-width:400px){
-.banner-content {
-    
-    margin-top: 12.5rem;
-}
 
-.banner-content-2 img {
-   display: none!important;
-}
-
-}
 
 @media only screen and (max-width:1800px){
 
@@ -250,6 +240,20 @@ p{
 }
 
 }
+
+@media (max-width:900px) and (min-width:400px){
+.banner-content {
+    
+    margin-top: 12.5rem;
+}
+
+.banner-content-2 img {
+   display: none!important;
+}
+
+}
+
+
 /*End Banner*/
 
 
@@ -561,7 +565,7 @@ p{
 }
 
 @media only screen and (max-width:768px){
-  
+
 .testimonial-container {
      width: auto; 
     margin: 0 auto;
