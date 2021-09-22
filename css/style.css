@@ -206,28 +206,9 @@ p{
 
 
 
-/*.banner-rectangle img{
-  position: absolute;
-  right: 0; 
-  
-}
 
-.banner-mobile-image img{
-	position: absolute;
-	left: -107px;
-	top: 100px;
-	height: 600px;
-  
-	
-}*/
 
-/*.ban-img-1{
-	position: absolute;
-	height: 500px;
-	left: 510;
-}*/
-
-/*@media only screen and (min-width:768px){
+@media only screen and (max-width:768px){
 .banner-content {
     
     margin-top: 12.5rem;
@@ -237,7 +218,8 @@ p{
    display: none!important;
 }
 
-}*/
+}
+
 @media only screen and (max-width:1710px){
 
 .banner-content h1{
