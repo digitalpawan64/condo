@@ -139,14 +139,9 @@ p{
 
 
 @media only screen and (max-width: 768px){
-  .container ul{
-  display: none;
-  }
- 
+   
 
-  #testimonial-feature .testi-card-slider .testimonial-card{
-    padding: 50px;
-  }
+  
 
   .container{
     display: none;
@@ -482,6 +477,11 @@ p{
     display: none!important;
   }
 
+#testimonial-feature .testi-card-slider .testimonial-card{
+    padding: 50px;
+  }
+
+
  #feature{
   display: none;
  }
@@ -502,7 +502,7 @@ p{
     font-size: 2.5rem;
     text-align: center;
     text-align: center;
-    
+
   }
 
   #testimonial-feature{
