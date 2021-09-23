@@ -421,6 +421,12 @@ p{
     display: none!important;
   }
 
+
+  #feature{
+    margin: 50px 0;
+    text-align: center;
+  }
+
   .feature-top-right{
     margin-top: 80px;
     margin-left: 0;
@@ -433,7 +439,7 @@ p{
 }
 
 
-@media only screen and (max-width: 1710px) {
+/*@media only screen and (max-width: 1710px) {
   .feature-card {
     width: 400px!important; 
     height: 370px!important; 
@@ -445,7 +451,7 @@ p{
 }
 }
 
-
+*/
     
 
 
