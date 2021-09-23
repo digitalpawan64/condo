@@ -494,6 +494,7 @@ p{
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+
 }
 
 .content-bottom-right p{
@@ -528,6 +529,7 @@ p{
     align-items: center;
     flex-direction: column;
     padding: 70px 0 30px 0;
+    text-align: center;
 }
 
 .content-top-left img{
@@ -545,6 +547,7 @@ p{
     align-items: center;
     flex-direction: column;
     padding: 70px 0 30px 0;
+    text-align: center;
 }
 
 .content-bottom-right img{
