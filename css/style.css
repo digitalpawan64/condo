@@ -632,6 +632,10 @@ p{
     margin: 0 auto;
 }
 
+.testimonial-top-right h2{
+  font-size: 2.5rem;
+}
+
 }
 
 /*End Testimonial*/
