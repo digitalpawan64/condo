@@ -213,6 +213,7 @@ p{
 
 .banner-content h1{
   font-size: 4.5rem;
+  
     
 }
 
@@ -220,6 +221,7 @@ p{
 .banner-content {
     margin: auto;
     margin-top: -35px;
+   
 }
 
 
@@ -244,6 +246,7 @@ p{
 .banner-content {
     
     margin-top: 12.5rem;
+    text-align: center;
 }
 
 .banner-content-2 img {
@@ -425,6 +428,7 @@ p{
 
   .feature-top-right h2{
     font-size: 2.5rem;
+    text-align: center;
   }
 }
 
@@ -532,6 +536,7 @@ p{
 }
 .content-top-right h2{
   font-size: 2.5rem;
+  text-align: center;
 }
 
 .content-bottom {
@@ -549,6 +554,7 @@ p{
 
 .content-bottom-right h2{
   font-size: 2.5rem;
+  text-align: center;
 }
 
     
@@ -634,6 +640,7 @@ p{
 
 .testimonial-top-right h2{
   font-size: 2.5rem;
+  text-align: center;
 }
 
 }
