@@ -86,7 +86,7 @@ p{
 .list-item {
   
   list-style-type: none;
- /* margin:0.2rem 0.2rem;*/
+  margin:0.2rem 0.5rem;
 }
 
 #navbar ul li a {
