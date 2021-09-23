@@ -28,7 +28,7 @@
 </head>
 <body>
 
-
+<!-- 
 	<div id="container">
         <nav id="navbar">
             <div class="logo" data-aos="fade-down-right">
@@ -48,7 +48,46 @@
 
         </nav>
     </div>
+ -->
 
+ <header id="navbar">
+  <nav class="navbar-container container">
+    <a href="/" class="home-link">
+      <div class="navbar-logo"></div>
+      Website Name
+    </a>
+    <button type="button" id="navbar-toggle" aria-controls="navbar-menu" aria-label="Toggle menu" aria-expanded="false">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <div id="navbar-menu" aria-labelledby="navbar-toggle">
+      <ul class="navbar-links">
+        <li class="navbar-item"><a class="navbar-link" href="/about">About</a></li>
+        <li class="navbar-item"><a class="navbar-link" href="/blog">Blog</a></li>
+        <li class="navbar-item"><a class="navbar-link" href="/careers">Careers</a></li>
+        <li class="navbar-item"><a class="navbar-link" href="/contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<script type="text/javascript">
+  const navbarToggle = navbar.querySelector("#navbar-toggle");
+const navbarMenu = document.querySelector("#navbar-menu");
+const navbarLinksContainer = navbarMenu.querySelector(".navbar-links");
+let isNavbarExpanded = navbarToggle.getAttribute("aria-expanded") === "true";
+
+const toggleNavbarVisibility = () => {
+  isNavbarExpanded = !isNavbarExpanded;
+  navbarToggle.setAttribute("aria-expanded", isNavbarExpanded);
+};
+
+navbarToggle.addEventListener("click", toggleNavbarVisibility);
+
+navbarLinksContainer.addEventListener("click", (e) => e.stopPropagation());
+navbarMenu.addEventListener("click", toggleNavbarVisibility);
+</script>
 
 	
 
@@ -169,7 +208,7 @@
                  
                 <img src="images\mobile1.png">
              </div>
-                
+                 
 	 		
 	 		</div>
  		    <div class="content-top-right">
