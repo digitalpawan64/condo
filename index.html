@@ -28,7 +28,7 @@
 </head>
 <body>
 
-<!-- 
+
 	<div id="container">
         <nav id="navbar">
             <div class="logo" data-aos="fade-down-right">
@@ -48,46 +48,7 @@
 
         </nav>
     </div>
- -->
 
- <header id="navbar">
-  <nav class="navbar-container container">
-    <a href="/" class="home-link">
-      <div class="navbar-logo"></div>
-      Website Name
-    </a>
-    <button type="button" id="navbar-toggle" aria-controls="navbar-menu" aria-label="Toggle menu" aria-expanded="false">
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
-    <div id="navbar-menu" aria-labelledby="navbar-toggle">
-      <ul class="navbar-links">
-        <li class="navbar-item"><a class="navbar-link" href="/about">About</a></li>
-        <li class="navbar-item"><a class="navbar-link" href="/blog">Blog</a></li>
-        <li class="navbar-item"><a class="navbar-link" href="/careers">Careers</a></li>
-        <li class="navbar-item"><a class="navbar-link" href="/contact">Contact</a></li>
-      </ul>
-    </div>
-  </nav>
-</header>
-
-<script type="text/javascript">
-  const navbarToggle = navbar.querySelector("#navbar-toggle");
-const navbarMenu = document.querySelector("#navbar-menu");
-const navbarLinksContainer = navbarMenu.querySelector(".navbar-links");
-let isNavbarExpanded = navbarToggle.getAttribute("aria-expanded") === "true";
-
-const toggleNavbarVisibility = () => {
-  isNavbarExpanded = !isNavbarExpanded;
-  navbarToggle.setAttribute("aria-expanded", isNavbarExpanded);
-};
-
-navbarToggle.addEventListener("click", toggleNavbarVisibility);
-
-navbarLinksContainer.addEventListener("click", (e) => e.stopPropagation());
-navbarMenu.addEventListener("click", toggleNavbarVisibility);
-</script>
 
 	
 
@@ -199,6 +160,58 @@ navbarMenu.addEventListener("click", toggleNavbarVisibility);
  </div>
 
  </section>
+
+ <section id="testimonial">
+ <div class="testimonial-container">
+         <div class="testimonial-top-right">
+        <h3 class="content-name">Testimonials</h3>
+                    <h2 class="content-heading">Our Happy Clients</h2>
+                                        
+      </div>
+  <div class="testi-card-slider-mobile">
+    <div class="testimonial-card">
+      <div><img src="images\clipboard.png"></div>
+      <div> 
+        <h5>Up-to-Date<br>Condo Listing</h5>
+        
+        
+
+      </div>
+    </div>
+    <div class="testimonial-card">
+      <div><img src="images\homes.png"></div>
+      <div> 
+        <h5>Building and <br>Neighborhood Profiles</h5>
+        
+
+      </div>
+    </div>
+    <div class="testimonial-card">
+      <div><img src="images\ranking.png"></div>
+      <div> 
+       <h5>Compehensive <br>Property Search</h5>
+        
+        
+
+      </div>
+    </div>
+    <div class="testimonial-card">
+      <div><img src="images\clipboard.png"></div>
+      <div> 
+        <h5>Compehensive <br>Property Search</h5>
+        
+        
+
+      </div>
+    </div>
+    
+
+  </div>
+
+ </div>
+
+ </section>
+
 
 
  <div class="content">
