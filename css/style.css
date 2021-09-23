@@ -417,6 +417,14 @@ p{
   .slick-next,.slick-prev {
     display: none!important;
   }
+
+  .feature-top-right{
+    margin-top: 80px;
+  }
+
+  .feature-top-right h2{
+    font-size: 2.5rem;
+  }
 }
 
 
