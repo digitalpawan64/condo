@@ -433,7 +433,7 @@ p{
 
 .content{
   background: url('../images/content-bg.png');
-  background-size: cover;
+  background-size: 1920px 1200px;
   background-repeat: no-repeat;
   height: 1200px;
 }
