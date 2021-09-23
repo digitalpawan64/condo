@@ -142,6 +142,10 @@ p{
   #navbar ul{
     display: none;
   }
+
+  #testimonial-feature .testi-card-slider .testimonial-card{
+    padding: 50px;
+  }
 }
 
 
