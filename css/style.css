@@ -186,6 +186,9 @@ p{
     top: 0px;
 }
 
+#toggle-btn{
+  display: none;
+}
 
 }
 
