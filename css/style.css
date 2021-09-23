@@ -142,9 +142,8 @@ header {
     height: 100%;
     width: 100px;
     float: left;
-    background: #4CAF50;
     padding: 0 20px;
-    color: #fff;
+    color: #000;
 }
 .brand-logo {
     max-width: 75px;
