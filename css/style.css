@@ -549,6 +549,9 @@ p{
     padding: 70px 0 30px 0;
     text-align: center;
 }
+.content-bottom-right {
+     margin-left: 0px; 
+}
 
 .content-bottom-right img{
     height: 300px;
