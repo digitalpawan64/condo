@@ -857,6 +857,10 @@ p{
     margin: 15px 0;
 }
 
+.footer-bottom-right ul {
+     display: block; 
+    padding: 0px;
+}
 
 .card-slider{
   display: none!important;
