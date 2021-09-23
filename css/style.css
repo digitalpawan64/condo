@@ -144,9 +144,13 @@ p{
     display: block;
   }
    
+  .brand-logo{
+    text-align: center;
+  }
 .show-menu-btn{
     left: 332px;
     top: -50px;
+    text-align: center;
 }
   
 
