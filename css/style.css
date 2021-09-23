@@ -595,8 +595,8 @@ p{
 
 .footer-top{
   display: flex;
-  justify-content: space-around;;
-  align-items: center;
+  justify-content: space-evenly;
+  align-items: flex-start;
 }
 
 .footer-bottom-right .list-item a {
