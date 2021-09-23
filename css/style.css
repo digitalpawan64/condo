@@ -769,7 +769,10 @@ p{
 }
 
 @media only screen and (max-width: 768px) {
-  .footer-top-right img{
+  
+
+
+    .footer-top-right img{
     height: 300px;
     width: auto;
 }
@@ -786,15 +789,15 @@ p{
   .footer-top-left h2{
     font-size: 2.5rem;
   }
-}
 
-
-@media only screen and (max-width: 768px){
-.footer-top-left {
+  .footer-top-left {
     margin-left: 0px;
     white-space: normal;
 }
 
 }
+
+
+
 /*Footer End*/
 
