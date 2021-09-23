@@ -144,7 +144,7 @@ p{
     display: block;
   }
    
-.show-menu-btn i{
+..fa-bars:before{
     left: 332px;
     top: -50px;
 }
