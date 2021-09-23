@@ -132,13 +132,17 @@ p{
 .app-btn a{
   color: #fff!important;
 }
-{
-  display: none!important;
-}
 
+ header{
+  display: none;
+ }
 
 
 @media only screen and (max-width: 768px){
+
+   header{
+    display: block;
+  }
    
 #toggle-btn i{
       left: 332px;
@@ -150,9 +154,7 @@ p{
     display: none;
   }
 
-  header{
-    display: block;
-  }
+
 
   .show-menu-btn,
 .hide-menu-btn {
