@@ -132,6 +132,9 @@ p{
 .app-btn a{
   color: #fff!important;
 }
+.header{
+  display: none;
+}
 
 
 
@@ -146,6 +149,46 @@ p{
   #testimonial-feature .testi-card-slider .testimonial-card{
     padding: 50px;
   }
+
+  .container{
+    display: none;
+  }
+
+  .show-menu-btn,
+.hide-menu-btn {
+    display: block;
+}
+.navigation {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #49d24f;
+    top: -100%;
+    left: 0;
+    padding: 50px 0px;
+    transition: 1s;
+}
+.navigation li {
+    width: 100%;
+}
+.navigation li a {
+    padding: 15px 15px;
+    text-align: left;
+}
+.navigation li a i {
+    width: auto;
+    font-size: 20px;
+}
+.hide-menu-btn {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+}
+#toggle-btn:checked ~ nav .navigation {
+    top: 0px;
+}
+
+
 }
 
 
