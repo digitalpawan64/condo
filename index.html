@@ -35,7 +35,7 @@
 .show-menu-btn i {
     line-height: 100px;
 }
-.navigation a:hover,
+.header ul a:hover,
 .show-menu-btn:hover,
 .hide-menu-btn:hover {
     color: #00ff0a;
@@ -59,7 +59,7 @@
     top: 15px;
     right: 20px;
 }
-#toggle-btn:checked ~ nav .navigation {
+#toggle-btn:checked ~ header .navbar ul {
     top: 0px;
 }
   </style>
@@ -76,6 +76,7 @@
             </div>
             <input type="checkbox" id="toggle-btn">
             <label for="toggle-btn" class="show-menu-btn"><i class="fa fa-bars"></i></label>
+           <div class="header"> 
             <ul>
                 <li class="list-item"><a href="index.html" class="active">Home</a></li>
                 <li class="list-item"><a href="portfolio.html">Features</a></li>
@@ -87,6 +88,7 @@
 
 
             </ul>
+            </div>
 
         </nav>
     </div>
