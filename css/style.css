@@ -139,8 +139,8 @@ p{
 /*Navbar End*/
 
 header {
-    height: 100%;
-    width: 100px;
+    width: 100%;
+    max-height: 100px;
     float: left;
     padding: 0 20px;
     color: #000;
