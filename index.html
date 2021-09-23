@@ -19,18 +19,63 @@
   <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
 
   <link href="https://www.dafontfree.net/embed/YW5naWUtYm9sZCZkYXRhLzIyL2EvMTEwODk3L0FuZ2llQm9sZC50dGY" rel="stylesheet" type="text/css"/>
- 
+  
+  <style type="text/css">
+    .show-menu-btn,
+.hide-menu-btn {
+    transition: 0.4s;
+    font-size: 30px;
+    cursor: pointer;
+    display: none;
+}
+.show-menu-btn {
+    margin: 0px;
+    float: right;
+}
+.show-menu-btn i {
+    line-height: 100px;
+}
+.navigation a:hover,
+.show-menu-btn:hover,
+.hide-menu-btn:hover {
+    color: #00ff0a;
+}
+#toggle-btn {
+    position: absolute;
+    visibility: hidden;
+    z-index: -1111;
+}
+
+/*-- Responsive CSS --*/
+@media screen and (max-width:767px) {
+.show-menu-btn,
+.hide-menu-btn {
+    display: block;
+}
+
+
+.hide-menu-btn {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+}
+#toggle-btn:checked ~ nav .navigation {
+    top: 0px;
+}
+  </style>
 
 	<title>Condo-Hunter</title>
 </head>
 <body>
-  
+
 
 	<div id="container">
         <nav id="navbar">
             <div class="logo" data-aos="fade-down-right">
                 <a href="index.html"><img src="images\Logo_nav.png"></a>
             </div>
+            <input type="checkbox" id="toggle-btn">
+            <label for="toggle-btn" class="show-menu-btn"><i class="fa fa-bars"></i></label>
             <ul>
                 <li class="list-item"><a href="index.html" class="active">Home</a></li>
                 <li class="list-item"><a href="portfolio.html">Features</a></li>
@@ -38,6 +83,7 @@
                 <li class="list-item"><a href="about.html">Testimonials</a></li>
                
                 <li class="list-item "><a href="contact.html"><button class="app-btn">Download App</button></a></li>
+                <label for="toggle-btn" class="hide-menu-btn"><i class="fa fa-times"></i></label>
 
 
             </ul>
