@@ -144,7 +144,7 @@ p{
     display: block;
   }
    
-.fa-bars:before{
+.show-menu-btn{
     left: 332px;
     top: -50px;
 }
@@ -154,8 +154,6 @@ p{
     display: none;
   }
 
-
-
   .show-menu-btn,
 .hide-menu-btn {
     display: block;
@@ -164,7 +162,7 @@ p{
     position: fixed;
     width: 100%;
     height: 100vh;
-    background: #fff;
+    background: #000;
     top: -100%;
     left: 0;
     padding: 50px 0px;
