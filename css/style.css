@@ -855,7 +855,7 @@ p{
 
 
 .card-slider{
-  display: none;
+  display: none!important;
 }
 
 }
