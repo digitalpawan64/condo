@@ -132,7 +132,7 @@ p{
 .app-btn a{
   color: #fff!important;
 }
-header{
+{
   display: none!important;
 }
 
@@ -148,6 +148,10 @@ header{
 
   #container{
     display: none;
+  }
+
+  header{
+    display: block;
   }
 
   .show-menu-btn,
