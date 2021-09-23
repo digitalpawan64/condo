@@ -144,7 +144,7 @@ p{
     display: block;
   }
    
-..fa-bars:before{
+.fa-bars:before{
     left: 332px;
     top: -50px;
 }
