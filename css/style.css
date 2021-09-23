@@ -654,6 +654,15 @@ p{
   text-align: center;
 }
 
+.testimonial-card {
+    margin: 10px;
+     padding: 0px; 
+    /* background-color: lightgrey!important; */
+    border-radius: 30px;
+    box-shadow: 0 0 10px lightgrey;
+    
+}
+
 }
 
 /*End Testimonial*/
