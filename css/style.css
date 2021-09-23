@@ -793,7 +793,7 @@ p{
  
     background-size: cover;
     background-repeat: no-repeat;
-    height: 1000px;
+    height: 1100px;
     width: 100%;
     overflow-x: hidden;
 }
@@ -851,6 +851,10 @@ p{
 
 .copyright span{
   display: none;
+}
+
+.footer-bottom div {
+    margin: 15px 0;
 }
 
 
