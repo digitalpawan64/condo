@@ -132,8 +132,8 @@ p{
 .app-btn a{
   color: #fff!important;
 }
-.header{
-  display: none;
+header{
+  display: none!important;
 }
 
 
