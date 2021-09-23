@@ -421,6 +421,10 @@ p{
     display: none!important;
 }
 
+.testimonial-feature{
+  display: none;
+}
+
 
 @media only screen and (max-width: 768px) {
   .slick-next,.slick-prev {
@@ -445,6 +449,8 @@ p{
     font-size: 2.5rem;
     text-align: center;
   }
+
+
 }
 
 
