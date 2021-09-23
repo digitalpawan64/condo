@@ -421,6 +421,9 @@ p{
     display: none!important;
   }
 
+ #feature{
+  display: none;
+ }
 
   #feature{
     margin: 50px 0;
