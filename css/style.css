@@ -421,7 +421,7 @@ p{
     display: none!important;
 }
 
-.testimonial-feature{
+#testimonial-feature{
   display: none!important;
 }
 
@@ -450,7 +450,7 @@ p{
     text-align: center;
   }
 
-  .testimonial-feature{
+  #testimonial-feature{
   display: block;!important;
 }
 
