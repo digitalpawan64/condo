@@ -616,6 +616,7 @@ p{
 .footer-top-left h2{
   font-size: 72px;
   line-height: 86px;
+  white-space: nowrap;
   font-weight: 600;
 }
 
