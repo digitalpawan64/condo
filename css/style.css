@@ -807,7 +807,8 @@ p{
 }
 
 .footer-top-right img{
-    height: 750px;
+    height: 700px;
+
 }
 
 .footer-top-left a{
@@ -817,8 +818,8 @@ p{
 .footer-bottom{
   display: flex;
   justify-content: space-evenly;
-  align-items: start;
-  margin-top: -40px;
+  align-items: center;
+  /*margin-top: -40px;*/
 }
 
 .footer-bottom-right ul {
