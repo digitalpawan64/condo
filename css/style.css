@@ -499,7 +499,7 @@ p{
     display: none!important;
 }
 
-#testimonial-feature{
+#feature-mobile{
   display: none!important;
 }
 
@@ -509,17 +509,17 @@ p{
     display: none!important;
   }
 
-#testimonial-feature .testi-card-slider .testimonial-card{
+#feature-mobile .testi-card-slider .testimonial-card{
     padding: 50px;
   }
 
-  #testimonial-feature .testi-card-slider .testimonial-card img {
+  #feature-mobile .testi-card-slider .testimonial-card img {
     width: 64px;
     height: 64px;
     margin: 0 auto;
 }
 
-#testimonial-feature .testi-card-slider .testimonial-card h5{
+#feature-mobile .testi-card-slider .testimonial-card h5{
   font-size: 14px;
   text-align: left;
 }
@@ -548,13 +548,115 @@ p{
 
   }
 
-  #testimonial-feature{
+  #feature-mobile{
   display: block!important;
 }
 
 
 
 }
+
+
+
+
+/*Feature Mobile start*/
+
+#feature-mobile{
+  padding-top:100px;
+  padding-bottom:100px;
+}
+
+.feature-container-mobile{
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.testimonial-top-right{
+  text-align: center;
+  margin: 125px 0;
+}
+
+
+
+.feature-mobile-card{
+  margin: 10px;
+  padding: 100px;
+ /* background-color:lightgrey!important;*/
+  border-radius: 30px;
+  box-shadow: 0 0 10px lightgrey;
+  padding: 50px;
+}
+
+.feature-mobile-card img{
+ width: 80px;
+ margin: 0 auto;
+}
+
+.feature-mobile-card h5{
+ color: black;
+ font-size: 18px;
+ margin: 10px auto;
+ text-align: center;
+ font-family: Angie!important;
+
+}
+
+.feature-mobile-card p{
+  color: #000;
+  text-align: center;
+}
+
+.feature-mobile-card{
+  background: white;
+}
+
+.feature-mobile-card .slick-next {
+    right: 680px !important;
+    top: 368px!important;
+    font-size: 18px!important;
+    border-radius: 50%!important;
+    background: transparent!important;
+    display: none!important;
+}
+
+.feature-mobile-card .slick-prev {
+  left: 685px !important;
+    top: 368px!important;
+    font-size: 18px!important;
+    border-radius: 50%!important;
+    background: transparent!important;
+    display: none!important;
+
+}
+
+@media only screen and (max-width:768px){
+
+  #feature-mobile{
+    margin: 50px 0;
+  }
+
+.feature-container-mobile {
+     width: auto; 
+    margin: 0 auto;
+}
+
+.testimonial-top-right h2{
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.feature-mobile-card {
+    margin: 10px;
+     padding: 0px; 
+    /* background-color: lightgrey!important; */
+    border-radius: 30px;
+    box-shadow: 0 0 10px lightgrey;
+    
+}
+
+}
+
+/*Feature mobile End*/
 
 
 /*@media only screen and (max-width: 1710px) {

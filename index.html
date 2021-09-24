@@ -181,16 +181,16 @@
 
  </section>
 
- <section id="testimonial-feature">
- <div class="testimonial-container">
+ <section id="feature-mobile">
+ <div class="feature-container-mobile">
          <div class="testimonial-top-right">
         <h3 class="content-name">Features</h3>
                     <h2 class="content-heading">What We Offer</h2>
                     <p style="text-align: center;">From pricing your home to fielding offers, get the tools and support you need.</p>
                                         
       </div>
-  <div class="testi-card-slider">
-    <div class="testimonial-card">
+  <div class="feature-mobile-slider">
+    <div class="feature-mobile-card">
       <div><img src="images\clipboard.png"></div>
       <div> 
         <h5>Up-to-Date<br>Condo Listing</h5>
@@ -199,7 +199,7 @@
 
       </div>
     </div>
-    <div class="testimonial-card">
+    <div class="feature-mobile-card">
       <div><img src="images\homes.png"></div>
       <div> 
         <h5>Building and <br>Neighborhood Profiles</h5>
@@ -207,7 +207,7 @@
 
       </div>
     </div>
-    <div class="testimonial-card">
+    <div class="feature-mobile-card">
       <div><img src="images\ranking.png"></div>
       <div> 
        <h5>Compehensive <br>Property Search</h5>
@@ -216,7 +216,7 @@
 
       </div>
     </div>
-    <div class="testimonial-card">
+    <div class="feature-mobile-card">
       <div><img src="images\clipboard.png"></div>
       <div> 
         <h5>Compehensive <br>Property Search</h5>
@@ -491,6 +491,48 @@
     });
 
   </script>
+
+  <script type="text/javascript">
+    $('.feature-mobile-slider').slick({
+      slidesToShow: 3,
+        slidesToScroll: 3,
+      dots:false,
+      arrows:true,
+      autoplay: true,
+        autoplaySpeed: 2000,
+        infinite: true,
+        responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        infinite: true,
+        dots: true
+      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    }
+    // You can unslick at a given breakpoint now by adding:
+    // settings: "unslick"
+    // instead of a settings object
+  ]
+    });
+
+  </script>
+
 
 
 
