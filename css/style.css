@@ -205,6 +205,7 @@ p{
 }
 #toggle-btn:checked ~ nav .navigation {
     top: 0px;
+    z-index: 1;
 }
 
 #toggle-btn{
