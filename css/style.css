@@ -506,24 +506,11 @@ p{
     display: none!important;
   }
 
-
-.feature-mobile-card{
-    padding: 50px;
-  }
-
-  .feature-mobile-card img {
-    width: 64px;
-    height: 64px;
-    margin: 0 auto;
-}
-
-
  #feature{
   display: none;
  }
 
   
-
   .feature-top-right{
     margin-top: 80px;
     margin-left: 0;
@@ -635,12 +622,19 @@ p{
 
 .feature-mobile-card {
     margin: 10px;
-     padding: 0px; 
+     padding: 50px; 
     /* background-color: lightgrey!important; */
     border-radius: 30px;
     box-shadow: 0 0 10px lightgrey;
     
 }
+
+  .feature-mobile-card img {
+    width: 64px;
+    height: 64px;
+    margin: 0 auto;
+}
+
 
 }
 
