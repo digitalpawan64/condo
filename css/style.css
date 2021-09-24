@@ -212,6 +212,13 @@ p{
 }
 
 
+.fa-bars:before {
+    content: "\f0c9";
+    position: relative;
+    top: -39px;
+}
+
+
 .banner-section {
    
     padding: 5px;
