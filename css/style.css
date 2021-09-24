@@ -146,8 +146,13 @@ p{
    
   .brand-logo{
     text-align: left;
-    
   }
+ .brand-logo img{
+    position: relative;
+    top: 15px;
+  }
+
+  
 .show-menu-btn{
     left: 332px;
     top: -50px;
