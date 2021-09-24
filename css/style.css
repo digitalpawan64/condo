@@ -361,6 +361,12 @@ p{
     white-space: normal;
 }
 
+.banner-content a img {
+    width: 132px;
+    height: 45px;
+    margin: 0 10px;
+}
+
 }
 
 
