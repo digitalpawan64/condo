@@ -177,7 +177,9 @@ p{
 }
 .navigation li a {
     padding: 15px 15px;
-    text-align: left;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
 }
 .navigation li a i {
     width: auto;
