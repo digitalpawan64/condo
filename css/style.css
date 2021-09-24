@@ -1073,6 +1073,11 @@ p{
     margin: 0;
 }
 
+p{
+  line-height: 30px;
+  font-size: 18px;
+}
+
 
 }
 
