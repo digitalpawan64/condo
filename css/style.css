@@ -152,6 +152,11 @@ p{
     top: -50px;
     text-align: center;
 }
+.show-menu-btn{
+    position: relative;
+    left: 143px;
+    top: -40px;
+}
   
 
   #container{
