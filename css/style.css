@@ -506,17 +506,18 @@ p{
     display: none!important;
   }
 
-#feature-mobile .testi-card-slider .testimonial-card{
+
+.feature-mobile-card{
     padding: 50px;
   }
 
-  #feature-mobile .testi-card-slider .testimonial-card img {
+  .feature-mobile-card img {
     width: 64px;
     height: 64px;
     margin: 0 auto;
 }
 
-#feature-mobile .testi-card-slider .testimonial-card h5{
+.feature-mobile-card h5{
   font-size: 14px;
   text-align: left;
 }
