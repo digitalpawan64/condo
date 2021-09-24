@@ -147,7 +147,7 @@ p{
   .brand-logo{
     text-align: left;
   }
-  
+
  .brand-logo img{
     position: relative;
     top: 15px;
@@ -210,6 +210,12 @@ p{
 
 #toggle-btn{
   display: none;
+}
+
+
+.banner-section {
+   
+    padding: 5px;
 }
 
 }
@@ -896,9 +902,9 @@ p{
  
     background-size: cover;
     background-repeat: no-repeat;
-    height: 1100px;
+    height: 1250px;
     width: 100%;
-    overflow-x: hidden;
+   
 }
 
 
