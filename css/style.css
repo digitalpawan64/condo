@@ -517,20 +517,12 @@ p{
     margin: 0 auto;
 }
 
-.feature-mobile-card h5{
-  font-size: 14px;
-  text-align: left;
-}
-
 
  #feature{
   display: none;
  }
 
-  #feature{
-    margin: 50px 0;
-    text-align: center;
-  }
+  
 
   .feature-top-right{
     margin-top: 80px;
@@ -640,10 +632,6 @@ p{
     margin: 0 auto;
 }
 
-.testimonial-top-right h2{
-  font-size: 2.5rem;
-  text-align: center;
-}
 
 .feature-mobile-card {
     margin: 10px;
