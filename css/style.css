@@ -194,6 +194,7 @@ p{
     text-align: center;
     text-decoration: none;
     color: #000;
+    font-family: 'Nunito', sans-serif;
 }
 .navigation li a i {
     width: auto;
