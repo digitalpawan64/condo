@@ -165,7 +165,7 @@ p{
 .navigation {
     position: fixed;
     width: 100%;
-    height: 100vh;
+    height: 45vh;
     background: #fff;
     top: -100%;
     left: 0;
