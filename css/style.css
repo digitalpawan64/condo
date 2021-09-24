@@ -153,18 +153,16 @@ p{
     top: 15px;
   }
 
-  
 .show-menu-btn{
-    left: 332px;
-    top: -50px;
-    text-align: center;
+    margin-left: 290px;
 }
-.show-menu-btn{
+
+/*.show-menu-btn{
     position: relative;
     left: 143px;
     top: -40px;
 }
-  
+  */
 
   #container{
     display: none;
